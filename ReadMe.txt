@@ -2,7 +2,7 @@ APRENDIENDO ANGULAR.JS
 
 En este repositorio encontrarán los archivos y explicaciones necesarios para Aprender Angular.js
 
-Apuntes de interés, también puedes encontrar nuevos apuntes en mi cuenta de Twitter @_AndresRincon
+Apuntes de interés, también puedes encontrar nuevos apuntes en mi cuenta de Twitter **@_AndresRincon**
 
 
 - "La Directiva ng-repeat repite una sección del DOM por cada item que se encuentre en un array"
